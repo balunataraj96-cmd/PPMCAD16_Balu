@@ -1,3 +1,6 @@
 print ('online features1')
 print ('online features2')
 print ('online features3')
+print ('local features4')
+print ('local features5')
+print ('local features6')
